@@ -37,4 +37,5 @@ Using the control buttons, you can start and stop the stopwatch, reset the elaps
 
 
 Conclusion
+
 This project demonstrates how to create a functional stopwatch web application using basic web technologies. By combining HTML for structure, CSS for styling, and JavaScript for functionality, we built an interactive and user-friendly application. The project showcases fundamental web development skills, including DOM manipulation, event handling, and interval timing. This stopwatch can be extended with additional features or customized further, providing a solid foundation for more complex web applications.
